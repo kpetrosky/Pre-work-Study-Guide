@@ -1,9 +1,25 @@
-var topics = "HTML, CSS, Git, JavaScript";
+var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 console.log(topics);
 
+for (var x = 0; x < topics.length; x++) {
+ console.log(topics[x]);
+}
+
+/*
+if (topic === 'HTML') {
+ console.log("Let's study HTML!");
+} else if (topic === 'CSS') {
+ console.log("Let's study CSS!");
+} else if (topic === 'Git') {
+ console.log("Let's study Git!");
+} else if (topic === 'JavaScript') {
+ console.log("Let's study JavaScript!");
+} else {
+ console.log('Please try again!');
+}
+*/
 const myHeading = document.querySelector("h1");
-myHeading.textContent = "Hello world!";
+myHeading.textContent = "Prework Study Guide";
 
-
-Set-Cookie: promo_shown=1; SameSite=Strict
+// Set-Cookie; promo_shown=1; Max-Age;2600000; Secure
 
