@@ -1,9 +1,21 @@
-# Study Guide
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2019/10/19/11/35/wolf-4561204__340.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROWxol1fTYo0AwvhfWhdnJmpZajN_MtNvsMw&usqp=CAU">
-  <img alt="pokemon" src="https://e7.pngegg.com/pngimages/625/1023/png-clipart-pokemon-characters-illustration-pikachu-ash-ketchum-pokxe9mon-drawing-psyduck-cartoon-pikachu-cartoon-character-comics-thumbnail.png">
-</picture>
+# <  # Prework Study Guide Webpage>
+
+## Description
+
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+- What was your motivation?
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What problem does it solve?
+- What did you learn?
+
+## Installation
+
+N/A
+
+## Usage
+
+Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
