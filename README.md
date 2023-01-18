@@ -4,10 +4,10 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- What was your motivation? It is important to have skills that I can use in a career.
+- Why did you build this project?  I built this project to help with studying for this class. 
+- What problem does it solve? It taught me the basics of HTML, and CSS.
+- What did you learn? All of the basics. 
 
 ## Installation
 
