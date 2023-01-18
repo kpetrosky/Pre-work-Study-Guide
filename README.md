@@ -1,25 +1,9 @@
-# <  # Prework Study Guide Webpage>
-
-## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
--I need a skill so that I am able to get a different job outside education. My work history and education is only in education and I need to do something else for my mental and physical health.  
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-This project helped give me basics as to what we will be learning in the coming months.
-- What problem does it solve?
-I was able to create a study guide to access during the pre-work and actually bootcamp.
-- What did you learn?
-Everything that we did was new to me, so I learned a lot. I learned how to use basic HTML, CSS, and Javascript.
-
-## Installation
-
-N/A
-
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
+# Study Guide
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2019/10/19/11/35/wolf-4561204__340.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROWxol1fTYo0AwvhfWhdnJmpZajN_MtNvsMw&usqp=CAU">
+  <img alt="pokemon" src="https://e7.pngegg.com/pngimages/625/1023/png-clipart-pokemon-characters-illustration-pikachu-ash-ketchum-pokxe9mon-drawing-psyduck-cartoon-pikachu-cartoon-character-comics-thumbnail.png">
+</picture>
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
@@ -34,5 +18,41 @@ N/A
 Please refer to the LICENSE in the repo.
 
 ---
+> Can't died because try killed him
+> -my dad
 
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
